@@ -1,0 +1,11 @@
+p  {font-family:Arial;}
+
+#SudokuGrid  {border-spacing:0;}
+
+#SudokuGrid input  {width:50;
+                    height:50;
+                    background-color:white;
+                    color:black;
+                    text-align:center;
+                    font-size:30;
+                    font-family:Arial;}
